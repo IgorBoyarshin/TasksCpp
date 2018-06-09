@@ -1,3 +1,5 @@
+// Given two numbers as linked list in reversed order (lowest digit - head),
+// Find their sum.
 #include <iostream>
 
 
